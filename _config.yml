@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Johanna Vos
 description: Research pages for Johanna Vos 
+plugins:
+  - jekyll-seo-tag
