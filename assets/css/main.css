@@ -2800,9 +2800,9 @@ input, select, textarea {
 		.main.style2 {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
-			background-attachment: fixed,							
+			background-attachment: fixed;							
 			background-image: url("assets/css/images/clouds_unsplash.jpg");
-			background-size: auto,							cover;
+			background-size: 	cover;
 		}
 
 			.main.style2 a {
